@@ -1,0 +1,107 @@
+{
+  "main": {
+    "id": "75fa46702c338d07",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a83f86242bf9d23",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Research/Set of states vs. State of sets.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ab80e87e717c90c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "067c432bd2d58f21",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58ec173ac8d5f721",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7b1a6c0f954124b5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 335
+  },
+  "right": {
+    "id": "705605acc6b87fa9",
+    "type": "split",
+    "children": [
+      {
+        "id": "8340ac4e6579718c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "545f59f1fb5e1229",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Research/Set of states vs. State of sets.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0b51b0d6fcc9fb25",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "7a83f86242bf9d23",
+  "lastOpenFiles": [
+    "Research/Set of states vs. State of sets.md",
+    "Kanban.md",
+    "Untitled.md",
+    "Research/Soundness and Completness in logical systems.md",
+    "README.md",
+    "Logic/S.md"
+  ]
+}
